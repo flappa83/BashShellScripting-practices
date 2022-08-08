@@ -13,3 +13,7 @@ strawberry
 --------------------
 bread
 cherry
+
+------------------------------
+rice
+beans
