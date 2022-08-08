@@ -1,21 +1,19 @@
-fruits:
+#!/bin/bash
 
-orange 
-lemon
-apple
+#user management script
 
-pineapple
-water melon
+read -p 'Enter your username?: ' user
+if [ -d  /home/$user ]
+then 
+        echo 'you cannot duplicate users'
+       echo 'User already exist, try again next time'
+else 
+        sudo useradd $user
+     echo user $user has been created successfully
+fi
 
-banana
-strawberry
+#.....................................................................................................
 
-pawpaw
-pear
 
-bread
-cherry
-
-rice
-beans
-
+#ken's task
+#create your bash script to delete users, you can also improve on this one
