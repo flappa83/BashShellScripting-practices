@@ -3,13 +3,19 @@ fruits:
 orange 
 lemon
 apple
--------------------master2
+
 pineapple
 water melon
 
 banana
 strawberry
 
--------------------master
 pawpaw
 pear
+
+bread
+cherry
+
+rice
+beans
+
