@@ -9,3 +9,7 @@ water melon
 
 banana
 strawberry
+
+--------------------
+bread
+cherry
